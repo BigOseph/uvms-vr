@@ -1,13 +1,24 @@
+cat > .gitignore <<'EOF'
+# Unreal Engine generated files
 Binaries/
 Intermediate/
 Saved/
 DerivedDataCache/
 
+# Plugin generated files
 Plugins/**/Binaries/
 Plugins/**/Intermediate/
 Plugins/**/Saved/
+Plugins/**/DerivedDataCache/
 
+# IDE generated files
 .vs/
 .idea/
 *.sln
 *.suo
+compile_commands.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+EOF
