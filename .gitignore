@@ -1,0 +1,13 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/Saved/
+
+.vs/
+.idea/
+*.sln
+*.suo

@@ -1,0 +1,28 @@
+{
+	"configurations": [
+		{
+			"name": "UVMS_VREditor Editor Linux Development (UVMS_VR)",
+			"compilerPath": "/home/darabie/Applications/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/darabie/Applications/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/darabie/Documents/Unreal Projects/UVMS_VR/.vscode/compileCommands_UVMS_VR.json"
+		},
+		{
+			"name": "Linux",
+			"compilerPath": "/home/darabie/Applications/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/darabie/Applications/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/darabie/Documents/Unreal Projects/UVMS_VR/.vscode/compileCommands_Default.json"
+		}
+	]
+}

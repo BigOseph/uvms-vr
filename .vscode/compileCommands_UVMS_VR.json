@@ -1,0 +1,10 @@
+[
+	{
+		"file": "/home/darabie/Documents/Unreal Projects/UVMS_VR/Source/UVMS_VR/UVMS_VR.cpp",
+		"arguments": [
+			"/home/darabie/Applications/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/darabie/Documents/Unreal Projects/UVMS_VR/.vscode/compileCommands_UVMS_VR/UVMS_VR.0.rsp"
+		],
+		"directory": "/home/darabie/Applications/UnrealEngine/Engine/Source"
+	}
+]
