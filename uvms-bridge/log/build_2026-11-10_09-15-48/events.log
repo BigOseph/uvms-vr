@@ -1,0 +1,43 @@
+[0.000000] (-) TimerEvent: {}
+[0.000425] (cpp_topic_reader) JobQueued: {'identifier': 'cpp_topic_reader', 'dependencies': OrderedDict()}
+[0.000480] (cpp_topic_reader) JobStarted: {'identifier': 'cpp_topic_reader'}
+[0.004833] (cpp_topic_reader) JobProgress: {'identifier': 'cpp_topic_reader', 'progress': 'cmake'}
+[0.005069] (cpp_topic_reader) Command: {'cmd': ['/usr/bin/cmake', '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/cpp_topic_reader', '-DCMAKE_INSTALL_PREFIX=/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader'], 'cwd': '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader', 'env': OrderedDict({'PROFILEHOME': '', 'KDE_FULL_SESSION': 'true', 'MAIL': '/var/spool/mail/darabie', 'LANGUAGE': '', 'USER': 'darabie', 'PAM_KWALLET5_LOGIN': '/run/user/1000/kwallet5.socket', 'LC_TIME': 'en_US.UTF-8', 'HOSTNAME': 'aero', 'XDG_SESSION_TYPE': 'wayland', 'KONSOLE_VERSION': '260803', 'XDG_CACHE_HOME': '/home/darabie/.cache', 'QT_WAYLAND_RECONNECT': '1', 'SHLVL': '5', 'LD_LIBRARY_PATH': '/home/darabie/uvms-venv/lib/python3.12/site-packages/casadi:/home/darabie/uvms-venv/lib/python3.12/site-packages/casadi:', 'MOTD_SHOWN': 'pam', 'HOME': '/home/darabie', 'KDE_APPLICATIONS_AS_SCOPE': '1', 'OLDPWD': '/home/darabie/ros_ws/src/uvms-vr', 'DESKTOP_SESSION': '/usr/share/wayland-sessions/plasma.desktop', 'MANROFFOPT': '-c', 'KDE_SESSION_VERSION': '6', 'LC_MONETARY': 'en_US.UTF-8', 'KONSOLE_DBUS_SESSION': '/Sessions/2', 'MANAGERPID': '1212', 'DISTROBOX_ENTER_PATH': '/usr/bin/distrobox-enter', 'SYSTEMD_EXEC_PID': '1344', 'XDG_STATE_HOME': '/home/darabie/.local/state', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'container': 'podman', 'KONSOLE_DBUS_ACTIVATION_COOKIE': '7UMQcSmRY4P0CVvLoGiSNOEJiJk9bJfZFbAiervvjGM=', 'KONSOLE_DBUS_WINDOW': '/Windows/1', 'DEBUGINFOD_URLS': 'https://debuginfod.archlinux.org https://debuginfod.cachyos.org', 'WAYLAND_DISPLAY': 'wayland-1', 'XKB_DEFAULT_LAYOUT': 'us', 'LOGNAME': 'darabie', 'WINDOWID': '93858955057760', 'MANAGERPIDFDID': '36913', 'JOURNAL_STREAM': '12:860', '_': '/usr/bin/colcon', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/plasma-plasmashell.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'COLORFGBG': '15;0', 'TERMINFO_DIRS': '/usr/share/terminfo:/run/host/usr/share/terminfo', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '2', 'FLATPAK_TTY_PROGRESS': '1', 'PATH': '/usr/local/bin:/usr/bin:/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/local/sbin:/usr/sbin:/usr/local/bin:/usr/bin:/sbin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/games:/usr/games', 'SESSION_MANAGER': 'local/aero:@/tmp/.ICE-unix/1334,unix/aero:/tmp/.ICE-unix/1334', 'INVOCATION_ID': '7f39eb7499a14a8d917a4671360dc4a0', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session1', 'XDG_MENU_PREFIX': 'plasma-', 'LC_ADDRESS': 'en_US.UTF-8', 'XKB_DEFAULT_MODEL': 'pc105', 'XDG_RUNTIME_DIR': '/run/user/1000', 'ICEAUTHORITY': '/run/user/1000/iceauth_jwARSt', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'KDE', 'LC_TELEPHONE': 'en_US.UTF-8', 'XDG_DATA_HOME': '/home/darabie/.local/share', 'XDG_CONFIG_HOME': '/home/darabie/.config', 'XDG_SESSION_DESKTOP': 'KDE', 'XAUTHORITY': '/run/user/1000/xauth_fnaIZy', 'MANPAGER': "sh -c 'col -bx | bat -l man -p'", 'CUDA_DISABLE_PERF_BOOST': '1', 'UID': '1000', 'SHELL': '/usr/bin/fish', 'LC_NAME': 'en_US.UTF-8', 'KONSOLE_DBUS_SERVICE': ':1.75', 'LC_MEASUREMENT': 'en_US.UTF-8', 'VSSCRIPT_PATH': '/usr/lib/python3.14/site-packages/vapoursynth/libvsscript.so', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'PWD': '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader', 'CONTAINER_ID': 'Capstone', 'XDG_CONFIG_DIRS': '/home/darabie/.config/kdedefaults:/etc/xdg', 'VIRTUAL_ENV_DISABLE_PROMPT': '1', 'XDG_DATA_DIRS': '/home/darabie/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share', 'LC_NUMERIC': 'en_US.UTF-8', 'LC_PAPER': 'en_US.UTF-8', 'KDE_SESSION_UID': '1000', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA='}), 'shell': False}
+[0.099925] (-) TimerEvent: {}
+[0.112603] (cpp_topic_reader) StdoutLine: {'line': b'-- The C compiler identification is GNU 13.3.0\n'}
+[0.200088] (-) TimerEvent: {}
+[0.216408] (cpp_topic_reader) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 13.3.0\n'}
+[0.243726] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.300334] (-) TimerEvent: {}
+[0.350471] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.363925] (cpp_topic_reader) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.364265] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.364835] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.373407] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.400456] (-) TimerEvent: {}
+[0.488136] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.498585] (cpp_topic_reader) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.498940] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.499589] (cpp_topic_reader) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.500539] (-) TimerEvent: {}
+[0.510933] (cpp_topic_reader) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:9 (find_package):\n'}
+[0.511287] (cpp_topic_reader) StderrLine: {'line': b'  By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project\n'}
+[0.511392] (cpp_topic_reader) StderrLine: {'line': b'  has asked CMake to find a package configuration file provided by\n'}
+[0.511483] (cpp_topic_reader) StderrLine: {'line': b'  "ament_cmake", but CMake did not find one.\n'}
+[0.511572] (cpp_topic_reader) StderrLine: {'line': b'\n'}
+[0.511663] (cpp_topic_reader) StderrLine: {'line': b'  Could not find a package configuration file provided by "ament_cmake" with\n'}
+[0.511753] (cpp_topic_reader) StderrLine: {'line': b'  any of the following names:\n'}
+[0.511837] (cpp_topic_reader) StderrLine: {'line': b'\n'}
+[0.511920] (cpp_topic_reader) StderrLine: {'line': b'    ament_cmakeConfig.cmake\n'}
+[0.512000] (cpp_topic_reader) StderrLine: {'line': b'    ament_cmake-config.cmake\n'}
+[0.512087] (cpp_topic_reader) StderrLine: {'line': b'\n'}
+[0.512175] (cpp_topic_reader) StderrLine: {'line': b'  Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set\n'}
+[0.512458] (cpp_topic_reader) StderrLine: {'line': b'  "ament_cmake_DIR" to a directory containing one of the above files.  If\n'}
+[0.512524] (cpp_topic_reader) StderrLine: {'line': b'  "ament_cmake" provides a separate development package or SDK, be sure it\n'}
+[0.512579] (cpp_topic_reader) StderrLine: {'line': b'  has been installed.\n'}
+[0.512650] (cpp_topic_reader) StderrLine: {'line': b'\n'}
+[0.512719] (cpp_topic_reader) StderrLine: {'line': b'\x1b[0m\n'}
+[0.512773] (cpp_topic_reader) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[0.513568] (cpp_topic_reader) CommandEnded: {'returncode': 1}
+[0.528920] (cpp_topic_reader) JobEnded: {'identifier': 'cpp_topic_reader', 'rc': 1}
+[0.539835] (-) EventReactorShutdown: {}

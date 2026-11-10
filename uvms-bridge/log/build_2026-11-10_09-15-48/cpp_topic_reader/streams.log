@@ -1,0 +1,32 @@
+[0.005s] Invoking command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader': DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/cpp_topic_reader -DCMAKE_INSTALL_PREFIX=/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader
+[0.112s] -- The C compiler identification is GNU 13.3.0
+[0.216s] -- The CXX compiler identification is GNU 13.3.0
+[0.243s] -- Detecting C compiler ABI info
+[0.350s] -- Detecting C compiler ABI info - done
+[0.364s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.364s] -- Detecting C compile features
+[0.364s] -- Detecting C compile features - done
+[0.373s] -- Detecting CXX compiler ABI info
+[0.488s] -- Detecting CXX compiler ABI info - done
+[0.498s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.499s] -- Detecting CXX compile features
+[0.499s] -- Detecting CXX compile features - done
+[0.511s] [31mCMake Error at CMakeLists.txt:9 (find_package):
+[0.511s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.511s]   has asked CMake to find a package configuration file provided by
+[0.511s]   "ament_cmake", but CMake did not find one.
+[0.511s] 
+[0.511s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.511s]   any of the following names:
+[0.511s] 
+[0.511s]     ament_cmakeConfig.cmake
+[0.512s]     ament_cmake-config.cmake
+[0.512s] 
+[0.512s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.512s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.512s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.512s]   has been installed.
+[0.512s] 
+[0.512s] [0m
+[0.512s] -- Configuring incomplete, errors occurred!
+[0.513s] Invoked command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader' returned '1': DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/cpp_topic_reader -DCMAKE_INSTALL_PREFIX=/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader

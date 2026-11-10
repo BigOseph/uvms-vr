@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-5b906aba3e0f816ea201.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_topic_reader",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_topic_reader_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_topic_reader_uninstall-4d66bee5211b73b387f2.json",
+					"name" : "cpp_topic_reader_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "topic_reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-topic_reader-4e5a3455a440faea2de0.json",
+					"name" : "topic_reader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-5e8df8f19cd69de37c59.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader",
+		"source" : "/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/cpp_topic_reader"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

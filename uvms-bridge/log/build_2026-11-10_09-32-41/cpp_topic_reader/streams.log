@@ -1,0 +1,48 @@
+[0.008s] Invoking command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/cpp_topic_reader -DCMAKE_INSTALL_PREFIX=/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader
+[0.021s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.210s] -- Found rclcpp: 28.1.22 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.230s] -- Found rosidl_generator_c: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.236s] -- Found rosidl_generator_cpp: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.244s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.253s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.297s] -- Found rmw_implementation_cmake: 7.3.4 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.298s] -- Found rmw_fastrtps_cpp: 8.4.4 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.364s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.419s] -- Found std_msgs: 5.3.8 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.429s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.501s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.501s] -- Configured cppcheck include dirs: 
+[0.502s] -- Configured cppcheck exclude dirs and/or files: 
+[0.502s] -- Added test 'lint_cmake' to check CMake code style
+[0.503s] -- Added test 'uncrustify' to check C / C++ code style
+[0.503s] -- Configured uncrustify additional arguments: 
+[0.503s] -- Added test 'xmllint' to check XML markup files
+[0.505s] -- Configuring done (0.5s)
+[0.512s] -- Generating done (0.0s)
+[0.515s] -- Build files have been written to: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader
+[0.520s] Invoked command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/cpp_topic_reader -DCMAKE_INSTALL_PREFIX=/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader
+[0.521s] Invoking command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake --build /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader -- -j20 -l20
+[0.566s] [ 50%] [32mBuilding CXX object CMakeFiles/topic_reader.dir/src/topic_reader.cpp.o[0m
+[4.929s] [100%] [32m[1mLinking CXX executable topic_reader[0m
+[5.124s] [100%] Built target topic_reader
+[5.131s] Invoked command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake --build /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader -- -j20 -l20
+[5.139s] Invoking command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake --install /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader
+[5.145s] -- Install configuration: ""
+[5.145s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/lib/cpp_topic_reader/topic_reader
+[5.156s] -- Set non-toolchain portion of runtime path of "/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/lib/cpp_topic_reader/topic_reader" to ""
+[5.156s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/ament_index/resource_index/package_run_dependencies/cpp_topic_reader
+[5.156s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/ament_index/resource_index/parent_prefix_path/cpp_topic_reader
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/environment/ament_prefix_path.sh
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/environment/ament_prefix_path.dsv
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/environment/path.sh
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/environment/path.dsv
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/local_setup.bash
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/local_setup.sh
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/local_setup.zsh
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/local_setup.dsv
+[5.157s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/package.dsv
+[5.158s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/ament_index/resource_index/packages/cpp_topic_reader
+[5.158s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/cmake/cpp_topic_readerConfig.cmake
+[5.158s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/cmake/cpp_topic_readerConfig-version.cmake
+[5.158s] -- Installing: /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/install/cpp_topic_reader/share/cpp_topic_reader/package.xml
+[5.160s] Invoked command in '/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.archlinux.org https://debuginfod.cachyos.org /usr/bin/cmake --install /home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader

@@ -1,0 +1,3 @@
+[0.000000] (-) TimerEvent: {}
+[0.000671] (-) JobUnselected: {'identifier': 'cpp_topic_reader'}
+[0.000720] (-) EventReactorShutdown: {}

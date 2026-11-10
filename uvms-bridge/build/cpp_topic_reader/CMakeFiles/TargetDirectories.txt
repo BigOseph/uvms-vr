@@ -1,0 +1,10 @@
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/uninstall.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/cpp_topic_reader_uninstall.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/topic_reader.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/test.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/edit_cache.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/rebuild_cache.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/list_install_components.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/install.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/install/local.dir
+/home/darabie/ros_ws/src/uvms-vr/uvms-bridge/build/cpp_topic_reader/CMakeFiles/install/strip.dir

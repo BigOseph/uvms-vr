@@ -22,7 +22,7 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
-add_executable(uvms-bridge src/uvms-bridge.cpp)
+add_executable(topic_reader src/topic_reader.cpp)
 
 ament_target_dependencies(topic_reader
   rclcpp
